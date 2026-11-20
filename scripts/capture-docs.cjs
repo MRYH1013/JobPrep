@@ -10,9 +10,9 @@ app.whenReady().then(async()=>{
  try{
   fs.mkdirSync(path.join(root,'docs/images'),{recursive:true});fs.mkdirSync(path.join(root,'build'),{recursive:true});
   await win.loadFile(path.join(root,'index.html'));
-  await capture('home');
-  await run(`setIndustry('career-01')`);await capture('roles');
-  await run(`setIndustry('career-01','01-1');openQuestion('fe-effect');document.querySelector('#note').value='我会让连接的创建与清理保持对称：切换 roomId 时断开旧连接，卸载时释放资源，并验证旧房间不再推送消息。';document.querySelector('#note').dispatchEvent(new Event('input'));document.activeElement.blur()`);await capture('practice');
+  win.setSize(1440,1280);await run(`document.querySelector('#toggle-industries').click()`);await capture('home');
+  win.setSize(1440,1000);await run(`setIndustry('career-09')`);await capture('roles');
+  await run(`switchView('general');openQuestion('general-061');document.querySelector('#note').value='我会先确认岗位职责、绩效结构和总薪酬口径，再结合目标城市与自身经验给出有依据的区间，并保留沟通空间。';document.querySelector('#note').dispatchEvent(new Event('input'));document.activeElement.blur()`);await capture('practice');
   await run(`document.querySelector('#submit-answer').click();document.activeElement.blur()`);await capture('answer');
   await run(`document.querySelector('#close').click();document.querySelector('#simulation-open').click();document.activeElement.blur()`);await capture('simulation');
   // Render the application's existing brand mark at icon size; no user data is used.
