@@ -1,0 +1,16 @@
+* text=auto
+*.js text eol=lf
+*.cjs text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.jpg binary
+*.ico binary
+questions.js linguist-generated=true
+general-data.js linguist-generated=true
+research-data.js linguist-generated=true

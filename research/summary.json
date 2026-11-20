@@ -1,0 +1,19 @@
+{
+  "retrievedAt": "2026-11-19",
+  "industries": 20,
+  "roles": 120,
+  "queries": 258,
+  "uniqueCandidateSources": 2066,
+  "sourceTypes": {
+    "社区/面经线索": 146,
+    "待核验站点": 1323,
+    "官方/专业主题资料": 424,
+    "招聘指南": 173
+  },
+  "pageOpenAttempts": 48,
+  "uniquePagesAttempted": 47,
+  "accessiblePages": 42,
+  "questionsAdded": 0,
+  "currentApplicationQuestions": 252,
+  "targetApplicationQuestions": 5040
+}

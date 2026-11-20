@@ -1,0 +1,87 @@
+{
+  "name": "jobprep",
+  "version": "0.6.1",
+  "private": true,
+  "description": "JobPrep：20个方向120个岗位，每岗位42道专业题，另含通用问答100条",
+  "main": "desktop/main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "check": "node --check app.js && node --check questions.js && node --check desktop/main.cjs && node --check general-data.js && node --check learning.js && node --check learning-core.js",
+    "pack": "electron-builder --dir",
+    "dist": "npm run release:build",
+    "test:smoke": "electron desktop/smoke.cjs",
+    "content:build": "python scripts/build-expanded.py && python scripts/build-general.py",
+    "research:build": "python scripts/build-research.py",
+    "general:build": "python scripts/build-general.py",
+    "test:core": "node --test desktop/learning-core.test.cjs",
+    "test:features": "electron desktop/features.cjs",
+    "release:build": "node scripts/release.cjs",
+    "docs:screenshots": "electron scripts/capture-docs.cjs"
+  },
+  "devDependencies": {
+    "electron": "^45.4.1",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "org.interviewatlas.desktop",
+    "productName": "JobPrep",
+    "files": [
+      "index.html",
+      "style.css",
+      "app.js",
+      "questions.js",
+      "desktop/main.cjs",
+      "LICENSE",
+      "README.md",
+      "assets/**/*",
+      "general-data.js",
+      "learning.js",
+      "learning-core.js",
+      "learning.css",
+      "CHANGELOG.md",
+      "LICENSE-CONTENT.md",
+      "LICENSES/CC-BY-4.0.txt",
+      "SUPPORT.md",
+      "SECURITY.md",
+      "THIRD_PARTY_NOTICES.md"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "zip",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "signExecutable": false,
+      "artifactName": "JobPrep-${version}-windows-${arch}.${ext}",
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "artifactName": "JobPrep-${version}-windows-${arch}-setup.${ext}",
+      "shortcutName": "JobPrep",
+      "createDesktopShortcut": true,
+      "deleteAppDataOnUninstall": false
+    },
+    "copyright": "Copyright (c) 2026 JobPrep contributors"
+  },
+  "author": "JobPrep contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MRYH1013/JobPrep.git"
+  },
+  "homepage": "https://github.com/MRYH1013/JobPrep",
+  "bugs": {
+    "url": "https://github.com/MRYH1013/JobPrep/issues"
+  }
+}

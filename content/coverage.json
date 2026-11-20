@@ -1,0 +1,734 @@
+{
+  "professionalQuestions": 5040,
+  "generalQuestions": 100,
+  "totalQuestions": 5140,
+  "industries": 20,
+  "roles": 120,
+  "minimumPerRole": 42,
+  "preservedLegacyQuestions": 252,
+  "newCompetencyTasks": 4788,
+  "sourceLinks": 244,
+  "expertReview": "待逐题领域评审",
+  "coverage": [
+    {
+      "id": "01-1",
+      "industry": "软件研发",
+      "role": "前端开发",
+      "questions": 42
+    },
+    {
+      "id": "01-2",
+      "industry": "软件研发",
+      "role": "Java 后端",
+      "questions": 42
+    },
+    {
+      "id": "01-3",
+      "industry": "软件研发",
+      "role": "Go 后端",
+      "questions": 42
+    },
+    {
+      "id": "01-4",
+      "industry": "软件研发",
+      "role": "Python 后端",
+      "questions": 42
+    },
+    {
+      "id": "01-5",
+      "industry": "软件研发",
+      "role": "移动端开发",
+      "questions": 42
+    },
+    {
+      "id": "01-6",
+      "industry": "软件研发",
+      "role": "软件测试",
+      "questions": 42
+    },
+    {
+      "id": "02-1",
+      "industry": "数据与人工智能",
+      "role": "数据分析",
+      "questions": 42
+    },
+    {
+      "id": "02-2",
+      "industry": "数据与人工智能",
+      "role": "商业智能 BI",
+      "questions": 42
+    },
+    {
+      "id": "02-3",
+      "industry": "数据与人工智能",
+      "role": "数据开发",
+      "questions": 42
+    },
+    {
+      "id": "02-4",
+      "industry": "数据与人工智能",
+      "role": "机器学习算法",
+      "questions": 42
+    },
+    {
+      "id": "02-5",
+      "industry": "数据与人工智能",
+      "role": "AI 应用开发",
+      "questions": 42
+    },
+    {
+      "id": "02-6",
+      "industry": "数据与人工智能",
+      "role": "数据科学",
+      "questions": 42
+    },
+    {
+      "id": "03-1",
+      "industry": "云计算与信息安全",
+      "role": "云平台工程",
+      "questions": 42
+    },
+    {
+      "id": "03-2",
+      "industry": "云计算与信息安全",
+      "role": "SRE 运维",
+      "questions": 42
+    },
+    {
+      "id": "03-3",
+      "industry": "云计算与信息安全",
+      "role": "DevOps",
+      "questions": 42
+    },
+    {
+      "id": "03-4",
+      "industry": "云计算与信息安全",
+      "role": "网络工程",
+      "questions": 42
+    },
+    {
+      "id": "03-5",
+      "industry": "云计算与信息安全",
+      "role": "网络安全",
+      "questions": 42
+    },
+    {
+      "id": "03-6",
+      "industry": "云计算与信息安全",
+      "role": "数据库管理 DBA",
+      "questions": 42
+    },
+    {
+      "id": "04-1",
+      "industry": "游戏与互动娱乐",
+      "role": "Unity 客户端",
+      "questions": 42
+    },
+    {
+      "id": "04-2",
+      "industry": "游戏与互动娱乐",
+      "role": "Unreal 开发",
+      "questions": 42
+    },
+    {
+      "id": "04-3",
+      "industry": "游戏与互动娱乐",
+      "role": "游戏系统策划",
+      "questions": 42
+    },
+    {
+      "id": "04-4",
+      "industry": "游戏与互动娱乐",
+      "role": "关卡策划",
+      "questions": 42
+    },
+    {
+      "id": "04-5",
+      "industry": "游戏与互动娱乐",
+      "role": "技术美术",
+      "questions": 42
+    },
+    {
+      "id": "04-6",
+      "industry": "游戏与互动娱乐",
+      "role": "游戏发行运营",
+      "questions": 42
+    },
+    {
+      "id": "05-1",
+      "industry": "设计与创意",
+      "role": "UI 设计",
+      "questions": 42
+    },
+    {
+      "id": "05-2",
+      "industry": "设计与创意",
+      "role": "UX 交互设计",
+      "questions": 42
+    },
+    {
+      "id": "05-3",
+      "industry": "设计与创意",
+      "role": "平面视觉设计",
+      "questions": 42
+    },
+    {
+      "id": "05-4",
+      "industry": "设计与创意",
+      "role": "品牌设计",
+      "questions": 42
+    },
+    {
+      "id": "05-5",
+      "industry": "设计与创意",
+      "role": "动效设计",
+      "questions": 42
+    },
+    {
+      "id": "05-6",
+      "industry": "设计与创意",
+      "role": "工业产品设计",
+      "questions": 42
+    },
+    {
+      "id": "06-1",
+      "industry": "产品管理",
+      "role": "用户产品",
+      "questions": 42
+    },
+    {
+      "id": "06-2",
+      "industry": "产品管理",
+      "role": "企业产品",
+      "questions": 42
+    },
+    {
+      "id": "06-3",
+      "industry": "产品管理",
+      "role": "商业化产品",
+      "questions": 42
+    },
+    {
+      "id": "06-4",
+      "industry": "产品管理",
+      "role": "平台产品",
+      "questions": 42
+    },
+    {
+      "id": "06-5",
+      "industry": "产品管理",
+      "role": "硬件产品",
+      "questions": 42
+    },
+    {
+      "id": "06-6",
+      "industry": "产品管理",
+      "role": "产品项目管理",
+      "questions": 42
+    },
+    {
+      "id": "07-1",
+      "industry": "内容与用户运营",
+      "role": "内容运营",
+      "questions": 42
+    },
+    {
+      "id": "07-2",
+      "industry": "内容与用户运营",
+      "role": "用户运营",
+      "questions": 42
+    },
+    {
+      "id": "07-3",
+      "industry": "内容与用户运营",
+      "role": "社区运营",
+      "questions": 42
+    },
+    {
+      "id": "07-4",
+      "industry": "内容与用户运营",
+      "role": "活动运营",
+      "questions": 42
+    },
+    {
+      "id": "07-5",
+      "industry": "内容与用户运营",
+      "role": "会员运营",
+      "questions": 42
+    },
+    {
+      "id": "07-6",
+      "industry": "内容与用户运营",
+      "role": "商家运营",
+      "questions": 42
+    },
+    {
+      "id": "08-1",
+      "industry": "市场与品牌传播",
+      "role": "品牌营销",
+      "questions": 42
+    },
+    {
+      "id": "08-2",
+      "industry": "市场与品牌传播",
+      "role": "市场策划",
+      "questions": 42
+    },
+    {
+      "id": "08-3",
+      "industry": "市场与品牌传播",
+      "role": "广告投放",
+      "questions": 42
+    },
+    {
+      "id": "08-4",
+      "industry": "市场与品牌传播",
+      "role": "SEO 与搜索营销",
+      "questions": 42
+    },
+    {
+      "id": "08-5",
+      "industry": "市场与品牌传播",
+      "role": "公关传播",
+      "questions": 42
+    },
+    {
+      "id": "08-6",
+      "industry": "市场与品牌传播",
+      "role": "媒介合作",
+      "questions": 42
+    },
+    {
+      "id": "09-1",
+      "industry": "销售与客户经营",
+      "role": "零售商品销售",
+      "questions": 42
+    },
+    {
+      "id": "09-2",
+      "industry": "销售与客户经营",
+      "role": "B2B 销售",
+      "questions": 42
+    },
+    {
+      "id": "09-3",
+      "industry": "销售与客户经营",
+      "role": "渠道销售",
+      "questions": 42
+    },
+    {
+      "id": "09-4",
+      "industry": "销售与客户经营",
+      "role": "大客户销售",
+      "questions": 42
+    },
+    {
+      "id": "09-5",
+      "industry": "销售与客户经营",
+      "role": "客户成功",
+      "questions": 42
+    },
+    {
+      "id": "09-6",
+      "industry": "销售与客户经营",
+      "role": "销售管理",
+      "questions": 42
+    },
+    {
+      "id": "10-1",
+      "industry": "电商与跨境贸易",
+      "role": "国内平台电商",
+      "questions": 42
+    },
+    {
+      "id": "10-2",
+      "industry": "电商与跨境贸易",
+      "role": "独立站运营",
+      "questions": 42
+    },
+    {
+      "id": "10-3",
+      "industry": "电商与跨境贸易",
+      "role": "跨境平台运营",
+      "questions": 42
+    },
+    {
+      "id": "10-4",
+      "industry": "电商与跨境贸易",
+      "role": "直播电商",
+      "questions": 42
+    },
+    {
+      "id": "10-5",
+      "industry": "电商与跨境贸易",
+      "role": "外贸业务",
+      "questions": 42
+    },
+    {
+      "id": "10-6",
+      "industry": "电商与跨境贸易",
+      "role": "商品选品",
+      "questions": 42
+    },
+    {
+      "id": "11-1",
+      "industry": "供应链与物流",
+      "role": "采购",
+      "questions": 42
+    },
+    {
+      "id": "11-2",
+      "industry": "供应链与物流",
+      "role": "供应链计划",
+      "questions": 42
+    },
+    {
+      "id": "11-3",
+      "industry": "供应链与物流",
+      "role": "仓储管理",
+      "questions": 42
+    },
+    {
+      "id": "11-4",
+      "industry": "供应链与物流",
+      "role": "运输调度",
+      "questions": 42
+    },
+    {
+      "id": "11-5",
+      "industry": "供应链与物流",
+      "role": "国际货代",
+      "questions": 42
+    },
+    {
+      "id": "11-6",
+      "industry": "供应链与物流",
+      "role": "供应商管理",
+      "questions": 42
+    },
+    {
+      "id": "12-1",
+      "industry": "制造与工程技术",
+      "role": "机械设计",
+      "questions": 42
+    },
+    {
+      "id": "12-2",
+      "industry": "制造与工程技术",
+      "role": "电气自动化",
+      "questions": 42
+    },
+    {
+      "id": "12-3",
+      "industry": "制造与工程技术",
+      "role": "电子硬件",
+      "questions": 42
+    },
+    {
+      "id": "12-4",
+      "industry": "制造与工程技术",
+      "role": "嵌入式开发",
+      "questions": 42
+    },
+    {
+      "id": "12-5",
+      "industry": "制造与工程技术",
+      "role": "工艺工程",
+      "questions": 42
+    },
+    {
+      "id": "12-6",
+      "industry": "制造与工程技术",
+      "role": "质量工程",
+      "questions": 42
+    },
+    {
+      "id": "13-1",
+      "industry": "建筑与空间环境",
+      "role": "建筑设计",
+      "questions": 42
+    },
+    {
+      "id": "13-2",
+      "industry": "建筑与空间环境",
+      "role": "结构工程",
+      "questions": 42
+    },
+    {
+      "id": "13-3",
+      "industry": "建筑与空间环境",
+      "role": "室内设计",
+      "questions": 42
+    },
+    {
+      "id": "13-4",
+      "industry": "建筑与空间环境",
+      "role": "工程造价",
+      "questions": 42
+    },
+    {
+      "id": "13-5",
+      "industry": "建筑与空间环境",
+      "role": "施工管理",
+      "questions": 42
+    },
+    {
+      "id": "13-6",
+      "industry": "建筑与空间环境",
+      "role": "BIM 工程",
+      "questions": 42
+    },
+    {
+      "id": "14-1",
+      "industry": "财务与金融",
+      "role": "企业会计",
+      "questions": 42
+    },
+    {
+      "id": "14-2",
+      "industry": "财务与金融",
+      "role": "财务分析",
+      "questions": 42
+    },
+    {
+      "id": "14-3",
+      "industry": "财务与金融",
+      "role": "审计",
+      "questions": 42
+    },
+    {
+      "id": "14-4",
+      "industry": "财务与金融",
+      "role": "税务",
+      "questions": 42
+    },
+    {
+      "id": "14-5",
+      "industry": "财务与金融",
+      "role": "银行业务",
+      "questions": 42
+    },
+    {
+      "id": "14-6",
+      "industry": "财务与金融",
+      "role": "金融风险管理",
+      "questions": 42
+    },
+    {
+      "id": "15-1",
+      "industry": "人力与组织管理",
+      "role": "招聘",
+      "questions": 42
+    },
+    {
+      "id": "15-2",
+      "industry": "人力与组织管理",
+      "role": "培训与发展",
+      "questions": 42
+    },
+    {
+      "id": "15-3",
+      "industry": "人力与组织管理",
+      "role": "薪酬绩效",
+      "questions": 42
+    },
+    {
+      "id": "15-4",
+      "industry": "人力与组织管理",
+      "role": "HRBP",
+      "questions": 42
+    },
+    {
+      "id": "15-5",
+      "industry": "人力与组织管理",
+      "role": "行政管理",
+      "questions": 42
+    },
+    {
+      "id": "15-6",
+      "industry": "人力与组织管理",
+      "role": "组织发展",
+      "questions": 42
+    },
+    {
+      "id": "16-1",
+      "industry": "教育与学习服务",
+      "role": "学科教学",
+      "questions": 42
+    },
+    {
+      "id": "16-2",
+      "industry": "教育与学习服务",
+      "role": "课程设计",
+      "questions": 42
+    },
+    {
+      "id": "16-3",
+      "industry": "教育与学习服务",
+      "role": "教学教研",
+      "questions": 42
+    },
+    {
+      "id": "16-4",
+      "industry": "教育与学习服务",
+      "role": "教育产品运营",
+      "questions": 42
+    },
+    {
+      "id": "16-5",
+      "industry": "教育与学习服务",
+      "role": "职业培训",
+      "questions": 42
+    },
+    {
+      "id": "16-6",
+      "industry": "教育与学习服务",
+      "role": "学业规划",
+      "questions": 42
+    },
+    {
+      "id": "17-1",
+      "industry": "心理学与行为研究",
+      "role": "心理学研究助理",
+      "questions": 42
+    },
+    {
+      "id": "17-2",
+      "industry": "心理学与行为研究",
+      "role": "心理测量",
+      "questions": 42
+    },
+    {
+      "id": "17-3",
+      "industry": "心理学与行为研究",
+      "role": "组织心理研究",
+      "questions": 42
+    },
+    {
+      "id": "17-4",
+      "industry": "心理学与行为研究",
+      "role": "教育心理研究",
+      "questions": 42
+    },
+    {
+      "id": "17-5",
+      "industry": "心理学与行为研究",
+      "role": "用户行为研究",
+      "questions": 42
+    },
+    {
+      "id": "17-6",
+      "industry": "心理学与行为研究",
+      "role": "心理服务专业伦理",
+      "questions": 42
+    },
+    {
+      "id": "18-1",
+      "industry": "医疗与健康服务",
+      "role": "护理",
+      "questions": 42
+    },
+    {
+      "id": "18-2",
+      "industry": "医疗与健康服务",
+      "role": "药学服务",
+      "questions": 42
+    },
+    {
+      "id": "18-3",
+      "industry": "医疗与健康服务",
+      "role": "医学检验",
+      "questions": 42
+    },
+    {
+      "id": "18-4",
+      "industry": "医疗与健康服务",
+      "role": "康复专业",
+      "questions": 42
+    },
+    {
+      "id": "18-5",
+      "industry": "医疗与健康服务",
+      "role": "健康管理",
+      "questions": 42
+    },
+    {
+      "id": "18-6",
+      "industry": "医疗与健康服务",
+      "role": "医疗器械产品支持",
+      "questions": 42
+    },
+    {
+      "id": "19-1",
+      "industry": "传媒与文化创作",
+      "role": "文案编辑",
+      "questions": 42
+    },
+    {
+      "id": "19-2",
+      "industry": "传媒与文化创作",
+      "role": "视频编导",
+      "questions": 42
+    },
+    {
+      "id": "19-3",
+      "industry": "传媒与文化创作",
+      "role": "摄影摄像",
+      "questions": 42
+    },
+    {
+      "id": "19-4",
+      "industry": "传媒与文化创作",
+      "role": "视频剪辑",
+      "questions": 42
+    },
+    {
+      "id": "19-5",
+      "industry": "传媒与文化创作",
+      "role": "影视后期",
+      "questions": 42
+    },
+    {
+      "id": "19-6",
+      "industry": "传媒与文化创作",
+      "role": "新闻采编",
+      "questions": 42
+    },
+    {
+      "id": "20-1",
+      "industry": "生活服务与文旅",
+      "role": "酒店运营",
+      "questions": 42
+    },
+    {
+      "id": "20-2",
+      "industry": "生活服务与文旅",
+      "role": "餐饮管理",
+      "questions": 42
+    },
+    {
+      "id": "20-3",
+      "industry": "生活服务与文旅",
+      "role": "旅游产品策划",
+      "questions": 42
+    },
+    {
+      "id": "20-4",
+      "industry": "生活服务与文旅",
+      "role": "会展执行",
+      "questions": 42
+    },
+    {
+      "id": "20-5",
+      "industry": "生活服务与文旅",
+      "role": "物业管理",
+      "questions": 42
+    },
+    {
+      "id": "20-6",
+      "industry": "生活服务与文旅",
+      "role": "门店连锁运营",
+      "questions": 42
+    }
+  ]
+}

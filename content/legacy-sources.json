@@ -1,0 +1,380 @@
+[
+  {
+    "title": "MDN · JavaScript Guide",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "React · Learn",
+    "url": "https://react.dev/learn",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "React · Render and Commit",
+    "url": "https://react.dev/learn/render-and-commit",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Vue · Reactivity in Depth",
+    "url": "https://vuejs.org/guide/extras/reactivity-in-depth.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Vue · Watchers",
+    "url": "https://vuejs.org/guide/essentials/watchers.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "TypeScript · Narrowing",
+    "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "TypeScript · Generics",
+    "url": "https://www.typescriptlang.org/docs/handbook/2/generics.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "MDN · HTTP",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "W3C · WCAG 2.2",
+    "url": "https://www.w3.org/WAI/WCAG22/quickref/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "web.dev · Performance",
+    "url": "https://web.dev/learn/performance",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "web.dev · Virtualize large lists",
+    "url": "https://web.dev/articles/virtualize-long-lists-react-window",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Oracle · Java 21 API",
+    "url": "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashMap.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Oracle · ThreadPoolExecutor",
+    "url": "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/concurrent/ThreadPoolExecutor.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Oracle · Virtual Threads / JDK 21",
+    "url": "https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Spring · Transactional",
+    "url": "https://docs.spring.io/spring-framework/reference/data-access/transaction/declarative/annotations.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Spring · Dependency Injection",
+    "url": "https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "MySQL 8.4 · Indexes",
+    "url": "https://dev.mysql.com/doc/refman/8.4/en/optimization-indexes.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "MySQL 8.4 · Transaction Isolation",
+    "url": "https://dev.mysql.com/doc/refman/8.4/en/innodb-transaction-isolation-levels.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "MySQL 8.4 · Deadlocks",
+    "url": "https://dev.mysql.com/doc/refman/8.4/en/innodb-deadlocks-handling.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Redis · Persistence",
+    "url": "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Redis · Key eviction",
+    "url": "https://redis.io/docs/latest/reference/eviction/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Redis · Distributed locks",
+    "url": "https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "AWS Builders Library · Idempotent APIs",
+    "url": "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "AWS Builders Library · Timeouts and retries",
+    "url": "https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Unity · Execution Order",
+    "url": "https://docs.unity3d.com/6000.0/Documentation/Manual/ExecutionOrder.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Unity · Profiler",
+    "url": "https://docs.unity3d.com/6000.0/Documentation/Manual/Profiler.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Epic · Gameplay Framework",
+    "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-framework-in-unreal-engine",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Epic · Networking Overview",
+    "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/networking-overview-for-unreal-engine",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Epic · Onboarding Players",
+    "url": "https://dev.epicgames.com/documentation/fortnite/onboarding-players-in-fortnite-creative?lang=en-US",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Epic · Level Designer Quick Start",
+    "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/level-designer-quick-start-in-unreal-engine",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Epic · Physically Based Materials",
+    "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/physically-based-materials-in-unreal-engine",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Steamworks · Wishlists",
+    "url": "https://partner.steamgames.com/doc/marketing/wishlist",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Steamworks · Marketing",
+    "url": "https://partner.steamgames.com/doc/marketing",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "LinkedIn · Retail Sales Interview Questions",
+    "url": "https://business.linkedin.com/hire/resources/how-to-hire-guides/retail-sales-associate-interview-questions",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Salesforce · Sales Pipeline",
+    "url": "https://www.salesforce.com/sales/pipeline/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Shopify · Retail Metrics",
+    "url": "https://www.shopify.com/blog/retail-metrics",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Salesforce · Sales Types and Strategies",
+    "url": "https://www.salesforce.com/sales/what-is-sales/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Shopify · Customer Retention",
+    "url": "https://www.shopify.com/blog/customer-retention-strategies",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "NN/g · Ten Usability Heuristics",
+    "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "NN/g · UX Interview Answers",
+    "url": "https://www.nngroup.com/articles/answer-ux-job-interview-questions/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "W3C · Contrast Minimum",
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "NN/g · Design Systems 101",
+    "url": "https://www.nngroup.com/articles/design-systems-101/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Adobe · Typography",
+    "url": "https://www.adobe.com/creativecloud/design/discover/typography.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Adobe · Brand Identity",
+    "url": "https://www.adobe.com/creativecloud/business/teams/resources/how-to/brand-identity.html",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "NN/g · Animation and Motion",
+    "url": "https://www.nngroup.com/articles/animation-purpose-ux/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "NN/g · Service Blueprints",
+    "url": "https://www.nngroup.com/articles/service-blueprints-definition/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "OpenStax · Psychological Research",
+    "url": "https://openstax.org/books/psychology-2e/pages/2-introduction",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "Cochrane · Randomisation Review",
+    "url": "https://www.cochrane.org/evidence/MR000012_randomised-controlled-trials-safeguard-against-biased-estimates-treatment-effects",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "OpenStax · Measures of Intelligence",
+    "url": "https://openstax.org/books/psychology-2e/pages/7-5-measures-of-intelligence",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "APA · Industrial and Organizational Psychology",
+    "url": "https://www.apa.org/ed/graduate/specialize/industrial",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "APA · Pre-K to 12 Education",
+    "url": "https://www.apa.org/education-career/k12",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "NN/g · User Interviews",
+    "url": "https://www.nngroup.com/articles/user-interviews/",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "APA · Ethics Code",
+    "url": "https://www.apa.org/ethics/code",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  },
+  {
+    "title": "APA · Record Keeping",
+    "url": "https://www.apa.org/practice/guidelines/record-keeping",
+    "retrieved": "2026-11-19",
+    "kind": "官方文档 / 专业机构资料",
+    "scope": "主题拓展参考；场景回答为编辑原创，不是来源逐字答案。"
+  }
+]

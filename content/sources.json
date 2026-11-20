@@ -1,0 +1,294 @@
+{
+  "js": [
+    [
+      "MDN · JavaScript Guide",
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+    ]
+  ],
+  "react": [
+    [
+      "React · Learn",
+      "https://react.dev/learn"
+    ],
+    [
+      "React · Render and Commit",
+      "https://react.dev/learn/render-and-commit"
+    ]
+  ],
+  "vue": [
+    [
+      "Vue · Reactivity in Depth",
+      "https://vuejs.org/guide/extras/reactivity-in-depth.html"
+    ],
+    [
+      "Vue · Watchers",
+      "https://vuejs.org/guide/essentials/watchers.html"
+    ]
+  ],
+  "ts": [
+    [
+      "TypeScript · Narrowing",
+      "https://www.typescriptlang.org/docs/handbook/2/narrowing.html"
+    ],
+    [
+      "TypeScript · Generics",
+      "https://www.typescriptlang.org/docs/handbook/2/generics.html"
+    ]
+  ],
+  "http": [
+    [
+      "MDN · HTTP",
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP"
+    ],
+    [
+      "W3C · WCAG 2.2",
+      "https://www.w3.org/WAI/WCAG22/quickref/"
+    ]
+  ],
+  "perf": [
+    [
+      "web.dev · Performance",
+      "https://web.dev/learn/performance"
+    ],
+    [
+      "web.dev · Virtualize large lists",
+      "https://web.dev/articles/virtualize-long-lists-react-window"
+    ]
+  ],
+  "java": [
+    [
+      "Oracle · Java 21 API",
+      "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/HashMap.html"
+    ]
+  ],
+  "concurrent": [
+    [
+      "Oracle · ThreadPoolExecutor",
+      "https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/concurrent/ThreadPoolExecutor.html"
+    ],
+    [
+      "Oracle · Virtual Threads / JDK 21",
+      "https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html"
+    ]
+  ],
+  "spring": [
+    [
+      "Spring · Transactional",
+      "https://docs.spring.io/spring-framework/reference/data-access/transaction/declarative/annotations.html"
+    ],
+    [
+      "Spring · Dependency Injection",
+      "https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html"
+    ]
+  ],
+  "mysql": [
+    [
+      "MySQL 8.4 · Indexes",
+      "https://dev.mysql.com/doc/refman/8.4/en/optimization-indexes.html"
+    ],
+    [
+      "MySQL 8.4 · Transaction Isolation",
+      "https://dev.mysql.com/doc/refman/8.4/en/innodb-transaction-isolation-levels.html"
+    ],
+    [
+      "MySQL 8.4 · Deadlocks",
+      "https://dev.mysql.com/doc/refman/8.4/en/innodb-deadlocks-handling.html"
+    ]
+  ],
+  "redis": [
+    [
+      "Redis · Persistence",
+      "https://redis.io/docs/latest/operate/oss_and_stack/management/persistence/"
+    ],
+    [
+      "Redis · Key eviction",
+      "https://redis.io/docs/latest/reference/eviction/"
+    ],
+    [
+      "Redis · Distributed locks",
+      "https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/"
+    ]
+  ],
+  "architecture": [
+    [
+      "AWS Builders Library · Idempotent APIs",
+      "https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/"
+    ],
+    [
+      "AWS Builders Library · Timeouts and retries",
+      "https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/"
+    ]
+  ],
+  "unity": [
+    [
+      "Unity · Execution Order",
+      "https://docs.unity3d.com/6000.0/Documentation/Manual/ExecutionOrder.html"
+    ],
+    [
+      "Unity · Profiler",
+      "https://docs.unity3d.com/6000.0/Documentation/Manual/Profiler.html"
+    ]
+  ],
+  "unreal": [
+    [
+      "Epic · Gameplay Framework",
+      "https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-framework-in-unreal-engine"
+    ],
+    [
+      "Epic · Networking Overview",
+      "https://dev.epicgames.com/documentation/en-us/unreal-engine/networking-overview-for-unreal-engine"
+    ]
+  ],
+  "game-design": [
+    [
+      "Epic · Onboarding Players",
+      "https://dev.epicgames.com/documentation/fortnite/onboarding-players-in-fortnite-creative?lang=en-US"
+    ]
+  ],
+  "level": [
+    [
+      "Epic · Level Designer Quick Start",
+      "https://dev.epicgames.com/documentation/en-us/unreal-engine/level-designer-quick-start-in-unreal-engine"
+    ]
+  ],
+  "art": [
+    [
+      "Epic · Physically Based Materials",
+      "https://dev.epicgames.com/documentation/en-us/unreal-engine/physically-based-materials-in-unreal-engine"
+    ]
+  ],
+  "steam": [
+    [
+      "Steamworks · Wishlists",
+      "https://partner.steamgames.com/doc/marketing/wishlist"
+    ],
+    [
+      "Steamworks · Marketing",
+      "https://partner.steamgames.com/doc/marketing"
+    ]
+  ],
+  "retail": [
+    [
+      "LinkedIn · Retail Sales Interview Questions",
+      "https://business.linkedin.com/hire/resources/how-to-hire-guides/retail-sales-associate-interview-questions"
+    ]
+  ],
+  "b2b": [
+    [
+      "Salesforce · Sales Pipeline",
+      "https://www.salesforce.com/sales/pipeline/"
+    ]
+  ],
+  "ecommerce": [
+    [
+      "Shopify · Retail Metrics",
+      "https://www.shopify.com/blog/retail-metrics"
+    ]
+  ],
+  "channel": [
+    [
+      "Salesforce · Sales Types and Strategies",
+      "https://www.salesforce.com/sales/what-is-sales/"
+    ]
+  ],
+  "customer": [
+    [
+      "Shopify · Customer Retention",
+      "https://www.shopify.com/blog/customer-retention-strategies"
+    ]
+  ],
+  "store": [
+    [
+      "Shopify · Retail Metrics",
+      "https://www.shopify.com/blog/retail-metrics"
+    ]
+  ],
+  "ux": [
+    [
+      "NN/g · Ten Usability Heuristics",
+      "https://www.nngroup.com/articles/ten-usability-heuristics/"
+    ],
+    [
+      "NN/g · UX Interview Answers",
+      "https://www.nngroup.com/articles/answer-ux-job-interview-questions/"
+    ]
+  ],
+  "ui": [
+    [
+      "W3C · Contrast Minimum",
+      "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html"
+    ],
+    [
+      "NN/g · Design Systems 101",
+      "https://www.nngroup.com/articles/design-systems-101/"
+    ]
+  ],
+  "visual": [
+    [
+      "Adobe · Typography",
+      "https://www.adobe.com/creativecloud/design/discover/typography.html"
+    ]
+  ],
+  "brand": [
+    [
+      "Adobe · Brand Identity",
+      "https://www.adobe.com/creativecloud/business/teams/resources/how-to/brand-identity.html"
+    ]
+  ],
+  "motion": [
+    [
+      "NN/g · Animation and Motion",
+      "https://www.nngroup.com/articles/animation-purpose-ux/"
+    ]
+  ],
+  "service": [
+    [
+      "NN/g · Service Blueprints",
+      "https://www.nngroup.com/articles/service-blueprints-definition/"
+    ]
+  ],
+  "research": [
+    [
+      "OpenStax · Psychological Research",
+      "https://openstax.org/books/psychology-2e/pages/2-introduction"
+    ],
+    [
+      "Cochrane · Randomisation Review",
+      "https://www.cochrane.org/evidence/MR000012_randomised-controlled-trials-safeguard-against-biased-estimates-treatment-effects"
+    ]
+  ],
+  "measurement": [
+    [
+      "OpenStax · Measures of Intelligence",
+      "https://openstax.org/books/psychology-2e/pages/7-5-measures-of-intelligence"
+    ]
+  ],
+  "io": [
+    [
+      "APA · Industrial and Organizational Psychology",
+      "https://www.apa.org/ed/graduate/specialize/industrial"
+    ]
+  ],
+  "education": [
+    [
+      "APA · Pre-K to 12 Education",
+      "https://www.apa.org/education-career/k12"
+    ]
+  ],
+  "behavior": [
+    [
+      "NN/g · User Interviews",
+      "https://www.nngroup.com/articles/user-interviews/"
+    ]
+  ],
+  "ethics": [
+    [
+      "APA · Ethics Code",
+      "https://www.apa.org/ethics/code"
+    ],
+    [
+      "APA · Record Keeping",
+      "https://www.apa.org/practice/guidelines/record-keeping"
+    ]
+  ]
+}

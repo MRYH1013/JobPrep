@@ -1,0 +1,997 @@
+[
+  {
+    "id": "10-1",
+    "industry": "电商与跨境贸易",
+    "role": "国内平台电商",
+    "english": "ecommerce marketplace operations",
+    "domains": [
+      "shopify.com",
+      "sell.amazon.com",
+      "sellercentral.amazon.com",
+      "trade.gov",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "国内平台电商 面试 面经 2026",
+      "ecommerce marketplace operations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0759",
+      "S0802",
+      "S1045",
+      "S1041",
+      "S1046",
+      "S0440",
+      "S1047",
+      "S1048",
+      "S1049",
+      "S1050",
+      "S1051",
+      "S1052",
+      "S0112",
+      "S1053",
+      "S1054",
+      "S1055",
+      "S1056",
+      "S2053",
+      "S2055",
+      "S2057",
+      "S2058",
+      "S2059",
+      "S2060",
+      "S2061",
+      "S2062",
+      "S2063",
+      "S2064"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "supplementalQueries": [
+      "site:sell.amazon.com ecommerce selling guide product listings"
+    ],
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "10-2",
+    "industry": "电商与跨境贸易",
+    "role": "独立站运营",
+    "english": "direct to consumer ecommerce",
+    "domains": [
+      "shopify.com",
+      "sell.amazon.com",
+      "sellercentral.amazon.com",
+      "trade.gov",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "独立站运营 面试 面经 2026",
+      "direct to consumer ecommerce interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0940",
+      "S0941",
+      "S0942",
+      "S0943",
+      "S0944",
+      "S0945",
+      "S0946",
+      "S0947",
+      "S0948",
+      "S0949",
+      "S0950",
+      "S0951",
+      "S0952",
+      "S0857",
+      "S0953",
+      "S0954",
+      "S0955",
+      "S1996",
+      "S1997",
+      "S1998",
+      "S1999",
+      "S2000",
+      "S2001",
+      "S2002",
+      "S2003",
+      "S2004",
+      "S2005",
+      "S2006",
+      "S2007",
+      "S2008",
+      "S2009",
+      "S2010"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "supplementalQueries": [
+      "site:shopify.com start online store checklist"
+    ],
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "10-3",
+    "industry": "电商与跨境贸易",
+    "role": "跨境平台运营",
+    "english": "cross border ecommerce",
+    "domains": [
+      "shopify.com",
+      "sell.amazon.com",
+      "sellercentral.amazon.com",
+      "trade.gov",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "跨境平台运营 面试 面经 2026",
+      "cross border ecommerce interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1185",
+      "S1186",
+      "S1187",
+      "S0802",
+      "S1188",
+      "S1189",
+      "S1190",
+      "S1191",
+      "S1192",
+      "S1193",
+      "S1194",
+      "S1195",
+      "S1196",
+      "S1197",
+      "S1198",
+      "S1199",
+      "S1200",
+      "S1201"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "10-4",
+    "industry": "电商与跨境贸易",
+    "role": "直播电商",
+    "english": "livestream ecommerce",
+    "domains": [
+      "shopify.com",
+      "sell.amazon.com",
+      "sellercentral.amazon.com",
+      "trade.gov",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "直播电商 面试 面经 2026",
+      "livestream ecommerce interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1031",
+      "S1032",
+      "S1033",
+      "S1034",
+      "S1035",
+      "S1036",
+      "S1037",
+      "S1038",
+      "S1039",
+      "S0440",
+      "S1040",
+      "S1041",
+      "S1042",
+      "S1043",
+      "S1044",
+      "S0623",
+      "S2041",
+      "S2042",
+      "S2043",
+      "S2044",
+      "S2045",
+      "S2046",
+      "S2047",
+      "S2048",
+      "S2049",
+      "S2050",
+      "S2051",
+      "S2052"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "supplementalQueries": [
+      "site:seller-us.tiktok.com university LIVE shopping guide"
+    ],
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "10-5",
+    "industry": "电商与跨境贸易",
+    "role": "外贸业务",
+    "english": "international trade sales",
+    "domains": [
+      "shopify.com",
+      "sell.amazon.com",
+      "sellercentral.amazon.com",
+      "trade.gov",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "外贸业务 面试 面经 2026",
+      "international trade sales interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0923",
+      "S0924",
+      "S0925",
+      "S0926",
+      "S0927",
+      "S0928",
+      "S0929",
+      "S0930",
+      "S0931",
+      "S0932",
+      "S0933",
+      "S0934",
+      "S0935",
+      "S0936",
+      "S0130",
+      "S0937",
+      "S0938",
+      "S0939"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "10-6",
+    "industry": "电商与跨境贸易",
+    "role": "商品选品",
+    "english": "merchandising buyer",
+    "domains": [
+      "shopify.com",
+      "sell.amazon.com",
+      "sellercentral.amazon.com",
+      "trade.gov",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "商品选品 面试 面经 2026",
+      "merchandising buyer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1233",
+      "S1234",
+      "S1235",
+      "S0802",
+      "S1195",
+      "S1237",
+      "S1238",
+      "S1239",
+      "S0795",
+      "S1240",
+      "S1241",
+      "S1242",
+      "S0666",
+      "S1243",
+      "S1053",
+      "S1244",
+      "S1245"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "11-1",
+    "industry": "供应链与物流",
+    "role": "采购",
+    "english": "procurement specialist",
+    "domains": [
+      "ascm.org",
+      "cips.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "采购 面试 面经 2026",
+      "procurement specialist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1202",
+      "S1075",
+      "S0956",
+      "S1203",
+      "S1204",
+      "S0994",
+      "S1205",
+      "S1206",
+      "S1207",
+      "S1208",
+      "S1209",
+      "S1210",
+      "S1211",
+      "S0971",
+      "S1212",
+      "S1213",
+      "S0158",
+      "S0969"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "11-2",
+    "industry": "供应链与物流",
+    "role": "供应链计划",
+    "english": "supply chain planner",
+    "domains": [
+      "ascm.org",
+      "cips.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "供应链计划 面试 面经 2026",
+      "supply chain planner interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0956",
+      "S0957",
+      "S0958",
+      "S0959",
+      "S0960",
+      "S0961",
+      "S0962",
+      "S0963",
+      "S0964",
+      "S0965",
+      "S0966",
+      "S0967",
+      "S0968",
+      "S0969",
+      "S0970",
+      "S0971"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "11-3",
+    "industry": "供应链与物流",
+    "role": "仓储管理",
+    "english": "warehouse manager",
+    "domains": [
+      "ascm.org",
+      "cips.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "仓储管理 面试 面经 2026",
+      "warehouse manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1169",
+      "S1170",
+      "S1171",
+      "S1172",
+      "S1173",
+      "S1174",
+      "S1175",
+      "S1176",
+      "S1177",
+      "S1178",
+      "S1179",
+      "S1180",
+      "S1181",
+      "S1182",
+      "S0971",
+      "S1183",
+      "S1184",
+      "S0968"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "11-4",
+    "industry": "供应链与物流",
+    "role": "运输调度",
+    "english": "transport dispatcher",
+    "domains": [
+      "ascm.org",
+      "cips.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "运输调度 面试 面经 2026",
+      "transport dispatcher interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1122",
+      "S1123",
+      "S1124",
+      "S1125",
+      "S1126",
+      "S1127",
+      "S1128",
+      "S1129",
+      "S1130",
+      "S1131",
+      "S1132",
+      "S1133",
+      "S0993",
+      "S1134",
+      "S1135",
+      "S1136",
+      "S1137"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "11-5",
+    "industry": "供应链与物流",
+    "role": "国际货代",
+    "english": "freight forwarder",
+    "domains": [
+      "ascm.org",
+      "cips.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "国际货代 面试 面经 2026",
+      "freight forwarder interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0986",
+      "S0956",
+      "S0987",
+      "S0988",
+      "S0989",
+      "S0990",
+      "S0991",
+      "S0992",
+      "S0993",
+      "S0994",
+      "S0995",
+      "S0923",
+      "S0996",
+      "S0997",
+      "S0998",
+      "S0999",
+      "S1000",
+      "S1001"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "11-6",
+    "industry": "供应链与物流",
+    "role": "供应商管理",
+    "english": "supplier manager",
+    "domains": [
+      "ascm.org",
+      "cips.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "供应商管理 面试 面经 2026",
+      "supplier manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1075",
+      "S0956",
+      "S1076",
+      "S1077",
+      "S1078",
+      "S1079",
+      "S1080",
+      "S0958",
+      "S1081",
+      "S1082",
+      "S0965",
+      "S1083",
+      "S1084",
+      "S1085",
+      "S0969",
+      "S0971",
+      "S1086",
+      "S1087"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "12-1",
+    "industry": "制造与工程技术",
+    "role": "机械设计",
+    "english": "mechanical engineer",
+    "domains": [
+      "asme.org",
+      "siemens.com",
+      "asq.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "机械设计 面试 面经 2026",
+      "mechanical engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1214",
+      "S1215",
+      "S1216",
+      "S1217",
+      "S1218",
+      "S1219",
+      "S1161",
+      "S1220",
+      "S1221",
+      "S1222",
+      "S1223",
+      "S1224",
+      "S1225",
+      "S1226",
+      "S1227",
+      "S1228",
+      "S1229",
+      "S1230",
+      "S1231",
+      "S1232"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "12-2",
+    "industry": "制造与工程技术",
+    "role": "电气自动化",
+    "english": "electrical automation engineer",
+    "domains": [
+      "asme.org",
+      "siemens.com",
+      "asq.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "电气自动化 面试 面经 2026",
+      "electrical automation engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1088",
+      "S1006",
+      "S1089",
+      "S1090",
+      "S1091",
+      "S1092",
+      "S1093",
+      "S1094",
+      "S1095",
+      "S0983",
+      "S1096",
+      "S1097",
+      "S1098",
+      "S1099",
+      "S1100",
+      "S1101",
+      "S1102",
+      "S1103",
+      "S1104"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "12-3",
+    "industry": "制造与工程技术",
+    "role": "电子硬件",
+    "english": "electronics engineer",
+    "domains": [
+      "asme.org",
+      "siemens.com",
+      "asq.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "电子硬件 面试 面经 2026",
+      "electronics engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1002",
+      "S1003",
+      "S0630",
+      "S0628",
+      "S1004",
+      "S0629",
+      "S0632",
+      "S0631",
+      "S1005",
+      "S1006",
+      "S1007",
+      "S1008",
+      "S1009",
+      "S1010",
+      "S0190",
+      "S0354",
+      "S1011",
+      "S1012"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "12-4",
+    "industry": "制造与工程技术",
+    "role": "嵌入式开发",
+    "english": "embedded systems engineer",
+    "domains": [
+      "asme.org",
+      "siemens.com",
+      "asq.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "嵌入式开发 面试 面经 2026",
+      "embedded systems engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1057",
+      "S1058",
+      "S1059",
+      "S1060",
+      "S1061",
+      "S1062",
+      "S1063",
+      "S1064",
+      "S1065",
+      "S1066",
+      "S1067",
+      "S1068",
+      "S1069",
+      "S1070",
+      "S0158",
+      "S1071",
+      "S1072",
+      "S1073",
+      "S1074"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "12-5",
+    "industry": "制造与工程技术",
+    "role": "工艺工程",
+    "english": "process engineer",
+    "domains": [
+      "asme.org",
+      "siemens.com",
+      "asq.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "工艺工程 面试 面经 2026",
+      "process engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1154",
+      "S1155",
+      "S1156",
+      "S1157",
+      "S1158",
+      "S1159",
+      "S1160",
+      "S0983",
+      "S1161",
+      "S1162",
+      "S1163",
+      "S1164",
+      "S1165",
+      "S1166",
+      "S1167",
+      "S1168",
+      "S0714",
+      "S0117"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "12-6",
+    "industry": "制造与工程技术",
+    "role": "质量工程",
+    "english": "quality engineer",
+    "domains": [
+      "asme.org",
+      "siemens.com",
+      "asq.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "质量工程 面试 面经 2026",
+      "quality engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0972",
+      "S0973",
+      "S0974",
+      "S0975",
+      "S0976",
+      "S0977",
+      "S0978",
+      "S0979",
+      "S0980",
+      "S0981",
+      "S0982",
+      "S0983",
+      "S0181",
+      "S0190",
+      "S0354",
+      "S0984",
+      "S0985"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "13-1",
+    "industry": "建筑与空间环境",
+    "role": "建筑设计",
+    "english": "architect",
+    "domains": [
+      "autodesk.com",
+      "rics.org",
+      "riba.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "建筑设计 面试 面经 2026",
+      "architect interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1013",
+      "S1014",
+      "S1015",
+      "S1016",
+      "S1017",
+      "S1018",
+      "S1019",
+      "S1020",
+      "S1021",
+      "S1022",
+      "S1023",
+      "S1024",
+      "S1025",
+      "S1026",
+      "S1027",
+      "S0082",
+      "S1028",
+      "S1029",
+      "S1030"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "13-2",
+    "industry": "建筑与空间环境",
+    "role": "结构工程",
+    "english": "structural engineer",
+    "domains": [
+      "autodesk.com",
+      "rics.org",
+      "riba.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "结构工程 面试 面经 2026",
+      "structural engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1261",
+      "S1262",
+      "S1263",
+      "S1264",
+      "S1265",
+      "S1266",
+      "S1267",
+      "S1268",
+      "S1269",
+      "S1270",
+      "S1271",
+      "S1272",
+      "S1273",
+      "S1274",
+      "S1275",
+      "S1276",
+      "S1277",
+      "S1278",
+      "S1279"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "13-3",
+    "industry": "建筑与空间环境",
+    "role": "室内设计",
+    "english": "interior designer",
+    "domains": [
+      "autodesk.com",
+      "rics.org",
+      "riba.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "室内设计 面试 面经 2026",
+      "interior designer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1246",
+      "S1247",
+      "S1248",
+      "S1249",
+      "S0081",
+      "S1250",
+      "S1251",
+      "S1252",
+      "S1253",
+      "S1254",
+      "S1255",
+      "S1256",
+      "S1257",
+      "S1013",
+      "S1258",
+      "S1259",
+      "S1260"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "13-4",
+    "industry": "建筑与空间环境",
+    "role": "工程造价",
+    "english": "quantity surveyor",
+    "domains": [
+      "autodesk.com",
+      "rics.org",
+      "riba.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "工程造价 面试 面经 2026",
+      "quantity surveyor interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1117",
+      "S1280",
+      "S1281",
+      "S1148",
+      "S1282",
+      "S1283",
+      "S1284",
+      "S1140",
+      "S1285",
+      "S1286",
+      "S1287",
+      "S1288",
+      "S1108",
+      "S1289",
+      "S1290",
+      "S1291",
+      "S1292"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "13-5",
+    "industry": "建筑与空间环境",
+    "role": "施工管理",
+    "english": "construction manager",
+    "domains": [
+      "autodesk.com",
+      "rics.org",
+      "riba.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "施工管理 面试 面经 2026",
+      "construction manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1105",
+      "S1106",
+      "S1107",
+      "S1108",
+      "S1109",
+      "S1110",
+      "S1111",
+      "S1112",
+      "S1113",
+      "S1114",
+      "S1115",
+      "S1116",
+      "S1117",
+      "S0158",
+      "S1118",
+      "S1119",
+      "S1120",
+      "S1121"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "13-6",
+    "industry": "建筑与空间环境",
+    "role": "BIM 工程",
+    "english": "BIM engineer",
+    "domains": [
+      "autodesk.com",
+      "rics.org",
+      "riba.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "BIM 工程 面试 面经 2026",
+      "BIM engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1138",
+      "S1139",
+      "S1140",
+      "S1013",
+      "S0983",
+      "S1141",
+      "S1142",
+      "S1143",
+      "S1144",
+      "S1145",
+      "S1146",
+      "S1147",
+      "S1148",
+      "S1149",
+      "S1150",
+      "S1151",
+      "S1152",
+      "S1153"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  }
+]

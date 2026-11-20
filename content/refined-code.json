@@ -1,0 +1,10 @@
+{
+  "frontend-09": "setCount(c => c + 1);\nsetCount(c => c + 1);\nsetCount(c => c + 1);\n// 每个更新都使用队列中前一个更新的结果。",
+  "fe-effect": "useEffect(() => {\n  const connection = createConnection(roomId);\n  connection.connect();\n  return () => connection.disconnect();\n}, [roomId]);\n// createConnection 是示例接口，实际依赖应按组件读取的值填写。",
+  "fe-race": "useEffect(() => {\n  let active = true;\n  async function load() {\n    try {\n      const data = await fetchResults(query);\n      if (active) setResult(data);\n    } catch (error) {\n      if (active) setError(error);\n    }\n  }\n  load();\n  return () => { active = false; };\n}, [query]);\n// 示例以忽略过期结果兜底；真实页面还应管理 loading、错误重置和可取消请求。",
+  "frontend-25": "type State = { kind: \"ready\" } | { kind: \"failed\"; error: string };\nfunction assertNever(value: never): never { throw new Error(\"Unexpected state\"); }\nfunction label(state: State): string {\n  switch (state.kind) {\n    case \"ready\": return \"Ready\";\n    case \"failed\": return state.error;\n    default: return assertNever(state);\n  }\n}",
+  "backend-08": "AtomicInteger count = new AtomicInteger();\n// 每个调用执行一次原子递增：\ncount.incrementAndGet();\n// 示例不代表多个业务字段也因此构成一个原子事务。",
+  "backend-11": "try {\n    tenantContext.set(tenantId);\n    handleRequest();\n} finally {\n    tenantContext.remove();\n}\n// tenantContext 是 ThreadLocal；嵌套上下文应另行设计恢复规则。",
+  "backend-28": "UPDATE inventory\nSET stock = stock - :quantity\nWHERE sku_id = :skuId AND stock >= :quantity;\n-- :quantity 需先验证为正数，检查受影响行数。\n-- 与订单写入的事务和幂等策略需要一并设计。",
+  "backend-39": "-- 为业务操作建立唯一约束（示意）：\nUNIQUE (tenant_id, idempotency_key)\n-- 同时保存请求摘要、执行状态与业务结果。\n-- 并发冲突时核对摘要，不可无条件返回其他意图的成功结果。"
+}

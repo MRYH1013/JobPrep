@@ -1,0 +1,959 @@
+[
+  {
+    "id": "03-1",
+    "industry": "云计算与信息安全",
+    "role": "云平台工程",
+    "english": "cloud engineer",
+    "domains": [
+      "cloud.google.com",
+      "aws.amazon.com",
+      "learn.microsoft.com",
+      "sre.google",
+      "cisco.com",
+      "owasp.org",
+      "resources.workable.com"
+    ],
+    "queries": [
+      "云平台工程 面试 面经 2026",
+      "cloud engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0824",
+      "S0825",
+      "S0826",
+      "S0827",
+      "S0828",
+      "S0829",
+      "S0830",
+      "S0831",
+      "S0832",
+      "S0833",
+      "S0834",
+      "S0835",
+      "S0836",
+      "S0837",
+      "S0681",
+      "S0589",
+      "S0685"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "03-2",
+    "industry": "云计算与信息安全",
+    "role": "SRE 运维",
+    "english": "site reliability engineer",
+    "domains": [
+      "cloud.google.com",
+      "aws.amazon.com",
+      "learn.microsoft.com",
+      "sre.google",
+      "cisco.com",
+      "owasp.org",
+      "resources.workable.com"
+    ],
+    "queries": [
+      "SRE 运维 面试 面经 2026",
+      "site reliability engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0807",
+      "S0808",
+      "S0809",
+      "S0810",
+      "S0811",
+      "S0812",
+      "S0813",
+      "S0814",
+      "S0815",
+      "S0816",
+      "S0817",
+      "S0818",
+      "S0681",
+      "S0819",
+      "S0820",
+      "S0821",
+      "S0822",
+      "S0823",
+      "S2094"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "03-3",
+    "industry": "云计算与信息安全",
+    "role": "DevOps",
+    "english": "DevOps engineer",
+    "domains": [
+      "cloud.google.com",
+      "aws.amazon.com",
+      "learn.microsoft.com",
+      "sre.google",
+      "cisco.com",
+      "owasp.org",
+      "resources.workable.com"
+    ],
+    "queries": [
+      "DevOps 面试 面经 2026",
+      "DevOps engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0885",
+      "S0886",
+      "S0813",
+      "S0887",
+      "S0888",
+      "S0808",
+      "S0889",
+      "S0890",
+      "S0891",
+      "S0892",
+      "S0893",
+      "S0894",
+      "S0681",
+      "S0895",
+      "S0896",
+      "S0897",
+      "S0898",
+      "S0899",
+      "S0900"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "03-4",
+    "industry": "云计算与信息安全",
+    "role": "网络工程",
+    "english": "network engineer",
+    "domains": [
+      "cloud.google.com",
+      "aws.amazon.com",
+      "learn.microsoft.com",
+      "sre.google",
+      "cisco.com",
+      "owasp.org",
+      "resources.workable.com"
+    ],
+    "queries": [
+      "网络工程 面试 面经 2026",
+      "network engineer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0668",
+      "S0669",
+      "S0670",
+      "S0671",
+      "S0672",
+      "S0673",
+      "S0674",
+      "S0675",
+      "S0676",
+      "S0677",
+      "S0678",
+      "S0679",
+      "S0680",
+      "S0681",
+      "S0682",
+      "S0683",
+      "S0684",
+      "S0589",
+      "S0685",
+      "S0686",
+      "S0261",
+      "S0687"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "03-5",
+    "industry": "云计算与信息安全",
+    "role": "网络安全",
+    "english": "cybersecurity analyst",
+    "domains": [
+      "cloud.google.com",
+      "aws.amazon.com",
+      "learn.microsoft.com",
+      "sre.google",
+      "cisco.com",
+      "owasp.org",
+      "resources.workable.com"
+    ],
+    "queries": [
+      "网络安全 面试 面经 2026",
+      "cybersecurity analyst interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0735",
+      "S0736",
+      "S0737",
+      "S0738",
+      "S0739",
+      "S0740",
+      "S0741",
+      "S0742",
+      "S0743",
+      "S0744",
+      "S0745",
+      "S0746",
+      "S0681",
+      "S0747",
+      "S0748",
+      "S0749",
+      "S0750",
+      "S0751",
+      "S0752"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "03-6",
+    "industry": "云计算与信息安全",
+    "role": "数据库管理 DBA",
+    "english": "database administrator",
+    "domains": [
+      "cloud.google.com",
+      "aws.amazon.com",
+      "learn.microsoft.com",
+      "sre.google",
+      "cisco.com",
+      "owasp.org",
+      "resources.workable.com"
+    ],
+    "queries": [
+      "数据库管理 DBA 面试 面经 2026",
+      "database administrator interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0576",
+      "S0577",
+      "S0578",
+      "S0579",
+      "S0580",
+      "S0581",
+      "S0582",
+      "S0583",
+      "S0584",
+      "S0585",
+      "S0586",
+      "S0587",
+      "S0588",
+      "S0589",
+      "S0590",
+      "S0591",
+      "S0592",
+      "S0593",
+      "S0594"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "06-1",
+    "industry": "产品管理",
+    "role": "用户产品",
+    "english": "consumer product manager",
+    "domains": [
+      "atlassian.com",
+      "productplan.com",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "用户产品 面试 面经 2026",
+      "consumer product manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0636",
+      "S0637",
+      "S0760",
+      "S0901",
+      "S0875",
+      "S0167",
+      "S0902",
+      "S0903",
+      "S0570",
+      "S0904",
+      "S0905",
+      "S0906",
+      "S0728",
+      "S0666",
+      "S0907",
+      "S0731"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "06-2",
+    "industry": "产品管理",
+    "role": "企业产品",
+    "english": "B2B product manager",
+    "domains": [
+      "atlassian.com",
+      "productplan.com",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "企业产品 面试 面经 2026",
+      "B2B product manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0636",
+      "S0868",
+      "S0637",
+      "S0167",
+      "S0869",
+      "S0870",
+      "S0871",
+      "S0872",
+      "S0726",
+      "S0757",
+      "S0873",
+      "S0874",
+      "S0190",
+      "S0875",
+      "S0754",
+      "S0876",
+      "S0728"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "06-3",
+    "industry": "产品管理",
+    "role": "商业化产品",
+    "english": "monetization product manager",
+    "domains": [
+      "atlassian.com",
+      "productplan.com",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "商业化产品 面试 面经 2026",
+      "monetization product manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0653",
+      "S0654",
+      "S0655",
+      "S0656",
+      "S0657",
+      "S0658",
+      "S0659",
+      "S0660",
+      "S0661",
+      "S0662",
+      "S0663",
+      "S0664",
+      "S0665",
+      "S0652",
+      "S0666",
+      "S0062",
+      "S0063",
+      "S0667"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "06-4",
+    "industry": "产品管理",
+    "role": "平台产品",
+    "english": "platform product manager",
+    "domains": [
+      "atlassian.com",
+      "productplan.com",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "平台产品 面试 面经 2026",
+      "platform product manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0658",
+      "S0753",
+      "S0637",
+      "S0754",
+      "S0167",
+      "S0755",
+      "S0756",
+      "S0757",
+      "S0758",
+      "S0759",
+      "S0760",
+      "S0761",
+      "S0762",
+      "S0666",
+      "S0728",
+      "S0450",
+      "S0763"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "06-5",
+    "industry": "产品管理",
+    "role": "硬件产品",
+    "english": "hardware product manager",
+    "domains": [
+      "atlassian.com",
+      "productplan.com",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "硬件产品 面试 面经 2026",
+      "hardware product manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0628",
+      "S0629",
+      "S0630",
+      "S0631",
+      "S0632",
+      "S0633",
+      "S0634",
+      "S0635",
+      "S0636",
+      "S0637",
+      "S0638",
+      "S0639",
+      "S0640",
+      "S0641",
+      "S0642",
+      "S0190",
+      "S0643"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "06-6",
+    "industry": "产品管理",
+    "role": "产品项目管理",
+    "english": "product project manager",
+    "domains": [
+      "atlassian.com",
+      "productplan.com",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "产品项目管理 面试 面经 2026",
+      "product project manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0637",
+      "S0718",
+      "S0719",
+      "S0636",
+      "S0720",
+      "S0721",
+      "S0722",
+      "S0723",
+      "S0724",
+      "S0725",
+      "S0726",
+      "S0727",
+      "S0728",
+      "S0729",
+      "S0730",
+      "S0731",
+      "S0732",
+      "S0733",
+      "S0734"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "07-1",
+    "industry": "内容与用户运营",
+    "role": "内容运营",
+    "english": "content operations",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "hubspot.com",
+      "shopify.com"
+    ],
+    "queries": [
+      "内容运营 面试 面经 2026",
+      "content operations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0611",
+      "S0612",
+      "S0613",
+      "S0614",
+      "S0615",
+      "S0616",
+      "S0617",
+      "S0618",
+      "S0619",
+      "S0620",
+      "S0621",
+      "S0622",
+      "S0623",
+      "S0624",
+      "S0607",
+      "S0625",
+      "S0626",
+      "S0158",
+      "S0627"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "07-2",
+    "industry": "内容与用户运营",
+    "role": "用户运营",
+    "english": "user operations",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "hubspot.com",
+      "shopify.com"
+    ],
+    "queries": [
+      "用户运营 面试 面经 2026",
+      "user operations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0688",
+      "S0689",
+      "S0690",
+      "S0691",
+      "S0611",
+      "S0692",
+      "S0693",
+      "S0694",
+      "S0695",
+      "S0696",
+      "S0697",
+      "S0698",
+      "S0699",
+      "S0117",
+      "S0700",
+      "S0061",
+      "S0178",
+      "S0701"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "07-3",
+    "industry": "内容与用户运营",
+    "role": "社区运营",
+    "english": "community manager",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "hubspot.com",
+      "shopify.com"
+    ],
+    "queries": [
+      "社区运营 面试 面经 2026",
+      "community manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0764",
+      "S0765",
+      "S0766",
+      "S0767",
+      "S0768",
+      "S0769",
+      "S0770",
+      "S0771",
+      "S0772",
+      "S0773",
+      "S0774",
+      "S0775",
+      "S0776",
+      "S0777",
+      "S0714",
+      "S0778",
+      "S0779",
+      "S0780"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "07-4",
+    "industry": "内容与用户运营",
+    "role": "活动运营",
+    "english": "event operations",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "hubspot.com",
+      "shopify.com"
+    ],
+    "queries": [
+      "活动运营 面试 面经 2026",
+      "event operations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0781",
+      "S0611",
+      "S0782",
+      "S0783",
+      "S0784",
+      "S0614",
+      "S0785",
+      "S0786",
+      "S0787",
+      "S0788",
+      "S0688",
+      "S0789",
+      "S0015",
+      "S0790",
+      "S0158",
+      "S0791",
+      "S0117",
+      "S0792"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "07-5",
+    "industry": "内容与用户运营",
+    "role": "会员运营",
+    "english": "membership operations",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "hubspot.com",
+      "shopify.com"
+    ],
+    "queries": [
+      "会员运营 面试 面经 2026",
+      "membership operations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0702",
+      "S0703",
+      "S0704",
+      "S0705",
+      "S0706",
+      "S0707",
+      "S0708",
+      "S0709",
+      "S0710",
+      "S0711",
+      "S0712",
+      "S0713",
+      "S0699",
+      "S0714",
+      "S0117",
+      "S0715",
+      "S0716",
+      "S0717"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "07-6",
+    "industry": "内容与用户运营",
+    "role": "商家运营",
+    "english": "merchant operations",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "hubspot.com",
+      "shopify.com"
+    ],
+    "queries": [
+      "商家运营 面试 面经 2026",
+      "merchant operations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0661",
+      "S0793",
+      "S0794",
+      "S0795",
+      "S0796",
+      "S0797",
+      "S0798",
+      "S0799",
+      "S0800",
+      "S0801",
+      "S0802",
+      "S0803",
+      "S0804",
+      "S0805",
+      "S0158",
+      "S0806",
+      "S0112"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "08-1",
+    "industry": "市场与品牌传播",
+    "role": "品牌营销",
+    "english": "brand marketing",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "developers.google.com",
+      "hubspot.com"
+    ],
+    "queries": [
+      "品牌营销 面试 面经 2026",
+      "brand marketing interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0595",
+      "S0596",
+      "S0597",
+      "S0598",
+      "S0599",
+      "S0600",
+      "S0601",
+      "S0602",
+      "S0603",
+      "S0604",
+      "S0605",
+      "S0606",
+      "S0607",
+      "S0354",
+      "S0608",
+      "S0609",
+      "S0610"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "08-2",
+    "industry": "市场与品牌传播",
+    "role": "市场策划",
+    "english": "marketing strategist",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "developers.google.com",
+      "hubspot.com"
+    ],
+    "queries": [
+      "市场策划 面试 面经 2026",
+      "marketing strategist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0595",
+      "S0597",
+      "S0644",
+      "S0604",
+      "S0645",
+      "S0646",
+      "S0647",
+      "S0599",
+      "S0648",
+      "S0649",
+      "S0650",
+      "S0651",
+      "S0607",
+      "S0652",
+      "S0158",
+      "S0062",
+      "S0342",
+      "S0470"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "08-3",
+    "industry": "市场与品牌传播",
+    "role": "广告投放",
+    "english": "paid advertising specialist",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "developers.google.com",
+      "hubspot.com"
+    ],
+    "queries": [
+      "广告投放 面试 面经 2026",
+      "paid advertising specialist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0908",
+      "S0909",
+      "S0910",
+      "S0911",
+      "S0912",
+      "S0595",
+      "S0913",
+      "S0914",
+      "S0915",
+      "S0916",
+      "S0917",
+      "S0015",
+      "S0918",
+      "S0919",
+      "S0920",
+      "S0921",
+      "S0699",
+      "S0922"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "08-4",
+    "industry": "市场与品牌传播",
+    "role": "SEO 与搜索营销",
+    "english": "SEO search marketing",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "developers.google.com",
+      "hubspot.com"
+    ],
+    "queries": [
+      "SEO 与搜索营销 面试 面经 2026",
+      "SEO search marketing interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0852",
+      "S0853",
+      "S0854",
+      "S0855",
+      "S0595",
+      "S0856",
+      "S0857",
+      "S0858",
+      "S0859",
+      "S0860",
+      "S0861",
+      "S0862",
+      "S0863",
+      "S0864",
+      "S0865",
+      "S0866",
+      "S0117",
+      "S0867",
+      "S2097"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "08-5",
+    "industry": "市场与品牌传播",
+    "role": "公关传播",
+    "english": "public relations",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "developers.google.com",
+      "hubspot.com"
+    ],
+    "queries": [
+      "公关传播 面试 面经 2026",
+      "public relations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0838",
+      "S0839",
+      "S0840",
+      "S0841",
+      "S0842",
+      "S0843",
+      "S0844",
+      "S0845",
+      "S0846",
+      "S0847",
+      "S0848",
+      "S0849",
+      "S0158",
+      "S0623",
+      "S0714",
+      "S0117",
+      "S0850",
+      "S0851"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "08-6",
+    "industry": "市场与品牌传播",
+    "role": "媒介合作",
+    "english": "media relations",
+    "domains": [
+      "resources.workable.com",
+      "business.linkedin.com",
+      "developers.google.com",
+      "hubspot.com"
+    ],
+    "queries": [
+      "媒介合作 面试 面经 2026",
+      "media relations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S0877",
+      "S0838",
+      "S0839",
+      "S0840",
+      "S0878",
+      "S0770",
+      "S0879",
+      "S0844",
+      "S0843",
+      "S0772",
+      "S0880",
+      "S0167",
+      "S0881",
+      "S0882",
+      "S0714",
+      "S0117",
+      "S0883",
+      "S0884"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  }
+]

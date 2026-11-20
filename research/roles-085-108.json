@@ -1,0 +1,989 @@
+[
+  {
+    "id": "14-1",
+    "industry": "财务与金融",
+    "role": "企业会计",
+    "english": "accountant",
+    "domains": [
+      "accaglobal.com",
+      "cfainstitute.org",
+      "ifrs.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "企业会计 面试 面经 2026",
+      "accountant interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1368",
+      "S1369",
+      "S1370",
+      "S1371",
+      "S1372",
+      "S1373",
+      "S1374",
+      "S1375",
+      "S1376",
+      "S1377",
+      "S1378",
+      "S1379",
+      "S1380",
+      "S1381",
+      "S1382",
+      "S1383",
+      "S1384",
+      "S1385"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "14-2",
+    "industry": "财务与金融",
+    "role": "财务分析",
+    "english": "financial analyst",
+    "domains": [
+      "accaglobal.com",
+      "cfainstitute.org",
+      "ifrs.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "财务分析 面试 面经 2026",
+      "financial analyst interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1402",
+      "S1369",
+      "S1403",
+      "S1404",
+      "S1405",
+      "S1406",
+      "S1407",
+      "S1408",
+      "S1409",
+      "S1410",
+      "S1411",
+      "S1412",
+      "S1413",
+      "S1414",
+      "S0354",
+      "S0190"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "14-3",
+    "industry": "财务与金融",
+    "role": "审计",
+    "english": "auditor",
+    "domains": [
+      "accaglobal.com",
+      "cfainstitute.org",
+      "ifrs.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "审计 面试 面经 2026",
+      "auditor interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1386",
+      "S1387",
+      "S1388",
+      "S1389",
+      "S1390",
+      "S1391",
+      "S1369",
+      "S1392",
+      "S1393",
+      "S1394",
+      "S1395",
+      "S1396",
+      "S1397",
+      "S1381",
+      "S1398",
+      "S1399",
+      "S1400",
+      "S1401"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "14-4",
+    "industry": "财务与金融",
+    "role": "税务",
+    "english": "tax specialist",
+    "domains": [
+      "accaglobal.com",
+      "cfainstitute.org",
+      "ifrs.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "税务 面试 面经 2026",
+      "tax specialist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1293",
+      "S1294",
+      "S1295",
+      "S1296",
+      "S1297",
+      "S1298",
+      "S1299",
+      "S1300",
+      "S1301",
+      "S1302",
+      "S1303",
+      "S1304",
+      "S1305",
+      "S1306",
+      "S1307",
+      "S1308",
+      "S1309"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "14-5",
+    "industry": "财务与金融",
+    "role": "银行业务",
+    "english": "banking associate",
+    "domains": [
+      "accaglobal.com",
+      "cfainstitute.org",
+      "ifrs.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "银行业务 面试 面经 2026",
+      "banking associate interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1639",
+      "S1640",
+      "S1641",
+      "S1642",
+      "S1643",
+      "S1644",
+      "S1645",
+      "S1646",
+      "S1647",
+      "S1648",
+      "S1649",
+      "S1650",
+      "S1651",
+      "S1652",
+      "S1653",
+      "S1929",
+      "S1375",
+      "S1930",
+      "S1931",
+      "S1932",
+      "S0585",
+      "S1933",
+      "S1934",
+      "S1935",
+      "S1936",
+      "S1937",
+      "S1938",
+      "S1857",
+      "S1854",
+      "S1856",
+      "S0397",
+      "S1939"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "supplementalQueries": [
+      "site:resources.workable.com banker interview questions"
+    ],
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "14-6",
+    "industry": "财务与金融",
+    "role": "金融风险管理",
+    "english": "financial risk analyst",
+    "domains": [
+      "accaglobal.com",
+      "cfainstitute.org",
+      "ifrs.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "金融风险管理 面试 面经 2026",
+      "financial risk analyst interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1593",
+      "S1594",
+      "S1595",
+      "S1596",
+      "S1597",
+      "S1598",
+      "S1599",
+      "S1600",
+      "S1601",
+      "S1602",
+      "S1603",
+      "S1604",
+      "S1411",
+      "S1605",
+      "S1606",
+      "S1607",
+      "S1608"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "15-1",
+    "industry": "人力与组织管理",
+    "role": "招聘",
+    "english": "recruiter",
+    "domains": [
+      "cipd.org",
+      "shrm.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "招聘 面试 面经 2026",
+      "recruiter interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1609",
+      "S1209",
+      "S1610",
+      "S0167",
+      "S1611",
+      "S1612",
+      "S1613",
+      "S0908",
+      "S1614",
+      "S1615",
+      "S1616",
+      "S0109",
+      "S1617",
+      "S1618",
+      "S1333",
+      "S0117",
+      "S1619",
+      "S1620",
+      "S1621",
+      "S1622",
+      "S0342"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "15-2",
+    "industry": "人力与组织管理",
+    "role": "培训与发展",
+    "english": "learning development specialist",
+    "domains": [
+      "cipd.org",
+      "shrm.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "培训与发展 面试 面经 2026",
+      "learning development specialist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1320",
+      "S1321",
+      "S1322",
+      "S1323",
+      "S1324",
+      "S1325",
+      "S1326",
+      "S1327",
+      "S1328",
+      "S1329",
+      "S1330",
+      "S1331",
+      "S1332",
+      "S1333",
+      "S1334",
+      "S1335",
+      "S1336",
+      "S1337",
+      "S1338"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "15-3",
+    "industry": "人力与组织管理",
+    "role": "薪酬绩效",
+    "english": "compensation benefits specialist",
+    "domains": [
+      "cipd.org",
+      "shrm.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "薪酬绩效 面试 面经 2026",
+      "compensation benefits specialist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1576",
+      "S0585",
+      "S1577",
+      "S1578",
+      "S1579",
+      "S1580",
+      "S1581",
+      "S1582",
+      "S1583",
+      "S1584",
+      "S1585",
+      "S1586",
+      "S1587",
+      "S1588",
+      "S1589",
+      "S1590",
+      "S1591",
+      "S1592"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "15-4",
+    "industry": "人力与组织管理",
+    "role": "HRBP",
+    "english": "HR business partner",
+    "domains": [
+      "cipd.org",
+      "shrm.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "HRBP 面试 面经 2026",
+      "HR business partner interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1511",
+      "S1512",
+      "S1513",
+      "S1514",
+      "S1515",
+      "S1516",
+      "S1517",
+      "S1518",
+      "S1519",
+      "S1520",
+      "S1521",
+      "S1522",
+      "S1523",
+      "S1524",
+      "S1525",
+      "S1526",
+      "S1333",
+      "S1527",
+      "S1528"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "15-5",
+    "industry": "人力与组织管理",
+    "role": "行政管理",
+    "english": "administrative manager",
+    "domains": [
+      "cipd.org",
+      "shrm.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "行政管理 面试 面经 2026",
+      "administrative manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1544",
+      "S1545",
+      "S1546",
+      "S1547",
+      "S1548",
+      "S1549",
+      "S1550",
+      "S1551",
+      "S1552",
+      "S1553",
+      "S1554",
+      "S1555",
+      "S0158",
+      "S1556",
+      "S1557",
+      "S1558"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "15-6",
+    "industry": "人力与组织管理",
+    "role": "组织发展",
+    "english": "organization development",
+    "domains": [
+      "cipd.org",
+      "shrm.org",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "组织发展 面试 面经 2026",
+      "organization development interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1415",
+      "S1416",
+      "S1417",
+      "S1418",
+      "S1419",
+      "S1420",
+      "S1421",
+      "S1422",
+      "S1423",
+      "S1424",
+      "S1425",
+      "S1426",
+      "S1427",
+      "S0870",
+      "S1428",
+      "S1429",
+      "S1430",
+      "S0714"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "16-1",
+    "industry": "教育与学习服务",
+    "role": "学科教学",
+    "english": "subject teacher",
+    "domains": [
+      "unesco.org",
+      "teachingenglish.org.uk",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "学科教学 面试 面经 2026",
+      "subject teacher interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1495",
+      "S1496",
+      "S1497",
+      "S1498",
+      "S1499",
+      "S1500",
+      "S1501",
+      "S1502",
+      "S1503",
+      "S1504",
+      "S1505",
+      "S1506",
+      "S1507",
+      "S1508",
+      "S1509",
+      "S1510"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "16-2",
+    "industry": "教育与学习服务",
+    "role": "课程设计",
+    "english": "instructional designer",
+    "domains": [
+      "unesco.org",
+      "teachingenglish.org.uk",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "课程设计 面试 面经 2026",
+      "instructional designer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1654",
+      "S1655",
+      "S1656",
+      "S1657",
+      "S1658",
+      "S1659",
+      "S1660",
+      "S0585",
+      "S1661",
+      "S1662",
+      "S0387",
+      "S1663",
+      "S1664",
+      "S1665",
+      "S1666",
+      "S1667",
+      "S1668",
+      "S0158"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "16-3",
+    "industry": "教育与学习服务",
+    "role": "教学教研",
+    "english": "curriculum developer",
+    "domains": [
+      "unesco.org",
+      "teachingenglish.org.uk",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "教学教研 面试 面经 2026",
+      "curriculum developer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1357",
+      "S1358",
+      "S1359",
+      "S1360",
+      "S1361",
+      "S1362",
+      "S1363",
+      "S1364",
+      "S1365",
+      "S1366",
+      "S1367"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "16-4",
+    "industry": "教育与学习服务",
+    "role": "教育产品运营",
+    "english": "education operations",
+    "domains": [
+      "unesco.org",
+      "teachingenglish.org.uk",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "教育产品运营 面试 面经 2026",
+      "education operations interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1529",
+      "S1530",
+      "S1531",
+      "S1532",
+      "S1533",
+      "S1534",
+      "S1535",
+      "S1536",
+      "S0611",
+      "S1537",
+      "S1538",
+      "S0585",
+      "S1539",
+      "S1540",
+      "S1541",
+      "S0158",
+      "S1542",
+      "S1543"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "16-5",
+    "industry": "教育与学习服务",
+    "role": "职业培训",
+    "english": "vocational trainer",
+    "domains": [
+      "unesco.org",
+      "teachingenglish.org.uk",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "职业培训 面试 面经 2026",
+      "vocational trainer interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1623",
+      "S1624",
+      "S1625",
+      "S1626",
+      "S1627",
+      "S1628",
+      "S1629",
+      "S1630",
+      "S1631",
+      "S0873",
+      "S1632",
+      "S1633",
+      "S1332",
+      "S1634",
+      "S1635",
+      "S1636",
+      "S1637",
+      "S1638"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "16-6",
+    "industry": "教育与学习服务",
+    "role": "学业规划",
+    "english": "academic advisor",
+    "domains": [
+      "unesco.org",
+      "teachingenglish.org.uk",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "学业规划 面试 面经 2026",
+      "academic advisor interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1339",
+      "S1340",
+      "S1341",
+      "S1342",
+      "S1343",
+      "S1344",
+      "S1345",
+      "S1346",
+      "S1347",
+      "S1348",
+      "S1349",
+      "S1350",
+      "S1351",
+      "S1352",
+      "S1353",
+      "S1354",
+      "S1355",
+      "S1356"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "18-1",
+    "industry": "医疗与健康服务",
+    "role": "护理",
+    "english": "registered nurse",
+    "domains": [
+      "who.int",
+      "icn.ch",
+      "fip.org",
+      "world.physio",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "护理 面试 面经 2026",
+      "registered nurse interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1482",
+      "S1483",
+      "S1484",
+      "S1485",
+      "S1486",
+      "S1487",
+      "S1488",
+      "S1489",
+      "S1490",
+      "S1491",
+      "S1492",
+      "S1493",
+      "S1494"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "18-2",
+    "industry": "医疗与健康服务",
+    "role": "药学服务",
+    "english": "pharmacist",
+    "domains": [
+      "who.int",
+      "icn.ch",
+      "fip.org",
+      "world.physio",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "药学服务 面试 面经 2026",
+      "pharmacist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1431",
+      "S1432",
+      "S1433",
+      "S1434",
+      "S1435",
+      "S1436",
+      "S1437",
+      "S1438",
+      "S1439",
+      "S1440",
+      "S1441",
+      "S1442",
+      "S1443",
+      "S1444",
+      "S1445",
+      "S1446",
+      "S1447",
+      "S1448"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "18-3",
+    "industry": "医疗与健康服务",
+    "role": "医学检验",
+    "english": "medical laboratory scientist",
+    "domains": [
+      "who.int",
+      "icn.ch",
+      "fip.org",
+      "world.physio",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "医学检验 面试 面经 2026",
+      "medical laboratory scientist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1310",
+      "S1311",
+      "S1312",
+      "S1313",
+      "S1314",
+      "S1315",
+      "S1316",
+      "S1317",
+      "S1318",
+      "S1319",
+      "S1961",
+      "S1962",
+      "S1963",
+      "S1964",
+      "S1965",
+      "S1966",
+      "S1967",
+      "S1968",
+      "S1969",
+      "S1970",
+      "S1971",
+      "S1972",
+      "S1973",
+      "S1974",
+      "S1975",
+      "S1976",
+      "S1977",
+      "S1978"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "supplementalQueries": [
+      "site:who.int laboratory quality management handbook competence"
+    ],
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "18-4",
+    "industry": "医疗与健康服务",
+    "role": "康复专业",
+    "english": "physical therapist",
+    "domains": [
+      "who.int",
+      "icn.ch",
+      "fip.org",
+      "world.physio",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "康复专业 面试 面经 2026",
+      "physical therapist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1449",
+      "S1450",
+      "S1451",
+      "S1452",
+      "S1453",
+      "S1454",
+      "S1455",
+      "S1456",
+      "S1457",
+      "S1458",
+      "S1459",
+      "S1460",
+      "S1461",
+      "S1462",
+      "S1463"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "18-5",
+    "industry": "医疗与健康服务",
+    "role": "健康管理",
+    "english": "health services manager",
+    "domains": [
+      "who.int",
+      "icn.ch",
+      "fip.org",
+      "world.physio",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "健康管理 面试 面经 2026",
+      "health services manager interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1559",
+      "S1560",
+      "S1561",
+      "S1562",
+      "S1563",
+      "S1564",
+      "S1565",
+      "S1566",
+      "S1567",
+      "S1568",
+      "S1569",
+      "S1570",
+      "S1571",
+      "S1572",
+      "S1573",
+      "S1345",
+      "S1574",
+      "S1575"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  },
+  {
+    "id": "18-6",
+    "industry": "医疗与健康服务",
+    "role": "医疗器械产品支持",
+    "english": "medical device product specialist",
+    "domains": [
+      "who.int",
+      "icn.ch",
+      "fip.org",
+      "world.physio",
+      "resources.workable.com",
+      "business.linkedin.com"
+    ],
+    "queries": [
+      "医疗器械产品支持 面试 面经 2026",
+      "medical device product specialist interview questions skills guide"
+    ],
+    "sourceIds": [
+      "S1464",
+      "S1465",
+      "S1466",
+      "S1467",
+      "S1468",
+      "S1469",
+      "S1470",
+      "S1471",
+      "S1472",
+      "S1473",
+      "S1474",
+      "S1475",
+      "S1476",
+      "S1477",
+      "S1478",
+      "S1479",
+      "S1480",
+      "S1481",
+      "S2065",
+      "S2066",
+      "S2067",
+      "S2068",
+      "S2069",
+      "S2070",
+      "S2071",
+      "S2072",
+      "S2073",
+      "S2074",
+      "S2075",
+      "S2076",
+      "S2077",
+      "S2078",
+      "S2079",
+      "S2080",
+      "S2081",
+      "S2082"
+    ],
+    "status": "首轮检索完成；来源与问题仍待内容评审",
+    "supplementalQueries": [
+      "site:fda.gov medical devices quality management training"
+    ],
+    "targetQuestions": 42,
+    "questionDraftsProducedByThisSearch": 0
+  }
+]
